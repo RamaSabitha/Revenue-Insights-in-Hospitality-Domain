@@ -11,3 +11,9 @@ Key Metrics: The project will focus on analyzing the following key metrics: RevP
 Solution Design: A dashboard will be created to display the analyzed data and insights. The dashboard will also include a channel-level split to help identify any channel-level issues.
 
 Important Jargons: The hospitality industry operates based on weekends (Friday and Saturday) and weekdays (Sunday to Thursday). URN is the number of rooms utilized by customers, while BRN includes utilized rooms, cancellations, and no-shows. RevPar is calculated as Total Revenue divided by Total Rooms Available to sell, while Occupancy is calculated as Total Rooms Occupied divided by Total Rooms Available. ADR is the average rate at which rooms are sold, calculated as Total Rooms Revenue divided by Number of Rooms sold.
+
+Tools and Technologies:
+
+Excel
+
+Power Bi
